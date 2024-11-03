@@ -1,0 +1,93 @@
+[
+    {
+      "nama_pasien": "Agus Susanto",
+      "nama_dokter": "Fachruddin Ghalibi",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T08:00:00",
+      "obat": ["Paracetamol", "Amoxicillin"],
+      "diagnosis_penyakit": "Flu biasa",
+      "catatan_dokter": "Istirahat yang cukup dan banyak minum air."
+    },
+    {
+      "nama_pasien": "Nurul Rahma",
+      "nama_dokter": "Fadlan Kamal",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T09:00:00",
+      "obat": ["Ibuprofen"],
+      "diagnosis_penyakit": "Karies gigi",
+      "catatan_dokter": "Lakukan perawatan lanjutan jika nyeri berlanjut."
+    },
+    {
+      "nama_pasien": "Budi Hartono",
+      "nama_dokter": "Haikal Alvaro",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T13:00:00",
+      "obat": ["Cetirizine", "Pseudoephredine"],
+      "diagnosis_penyakit": "Alergi",
+      "catatan_dokter": "Hindari pemicu alergi dan konsultasi ulang jika tidak ada perbaikan."
+    },
+    {
+      "nama_pasien": "Siti Maemunah",
+      "nama_dokter": "Najwa Aulia",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T10:00:00",
+      "obat": ["Lidocaine"],
+      "diagnosis_penyakit": "Radang gusi",
+      "catatan_dokter": "Rutin berkumur dengan larutan garam."
+    },
+    {
+      "nama_pasien": "Dedi Saputra",
+      "nama_dokter": "Naufal Ajhar",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T08:00:00",
+      "obat": ["Vitamin C", "Multivitamin"],
+      "diagnosis_penyakit": "Kekurangan vitamin",
+      "catatan_dokter": "Tingkatkan asupan sayuran dan buah."
+    },
+    {
+      "nama_pasien": "Maria Lestari",
+      "nama_dokter": "Susanti Harjo",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T12:00:00",
+      "obat": ["Fluoride"],
+      "diagnosis_penyakit": "Gigi sensitif",
+      "catatan_dokter": "Hindari makanan yang terlalu panas atau dingin."
+    },
+    {
+      "nama_pasien": "Herman Jaya",
+      "nama_dokter": "Firman Saputra",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T14:00:00",
+      "obat": ["Amoxicillin"],
+      "diagnosis_penyakit": "Infeksi saluran pernapasan",
+      "catatan_dokter": "Lanjutkan obat sesuai dosis dan kontrol ulang jika tidak membaik."
+    },
+    {
+      "nama_pasien": "Lia Pratiwi",
+      "nama_dokter": "Irma Suryani",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T08:00:00",
+      "obat": ["Chlorhexidine"],
+      "diagnosis_penyakit": "Infeksi mulut",
+      "catatan_dokter": "Gunakan obat kumur secara teratur."
+    },
+    {
+      "nama_pasien": "Arif Rahman",
+      "nama_dokter": "Dimas Kusuma",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T14:00:00",
+      "obat": ["Paracetamol"],
+      "diagnosis_penyakit": "Demam",
+      "catatan_dokter": "Pantau suhu tubuh dan tetap di rumah."
+    },
+    {
+      "nama_pasien": "Dewi Anisa",
+      "nama_dokter": "Dewi Andini",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T10:00:00",
+      "obat": ["Analgesik"],
+      "diagnosis_penyakit": "Sakit gigi",
+      "catatan_dokter": "Segera lakukan perawatan saluran akar jika nyeri berlanjut."
+    }
+  ]
+  

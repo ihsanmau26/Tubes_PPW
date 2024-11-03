@@ -1,0 +1,10 @@
+{
+    "account": [
+      { 
+        "email": "admin@gmail.com", 
+        "password": "admin123",
+        "name": "Ihsan Maulana",
+        "foto_profil": "https://picsum.photos/400/200?random=21"
+      }
+    ]
+}

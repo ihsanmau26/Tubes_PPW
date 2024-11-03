@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "email": "fahcruddinghalibi@example.com",
+      "password": "password123",
+      "nama": "Fachruddin Ghalibi",
+      "no_telp": "081234567890",
+      "foto_profil": "https://picsum.photos/400/200?random=11",
+      "waktu_shift": [
+        { "hari": "Senin", "jam_mulai": "08:00", "jam_selesai": "14:00" },
+        { "hari": "Rabu", "jam_mulai": "10:00", "jam_selesai": "16:00" }
+      ],
+      "spesialis": "Umum"
+    },
+    {
+      "id": 2,
+      "email": "fadlankamal@example.com",
+      "password": "password456",
+      "nama": "Fadlan Kamal",
+      "no_telp": "082345678901",
+      "foto_profil": "https://picsum.photos/400/200?random=12",
+      "waktu_shift": [
+        { "hari": "Selasa", "jam_mulai": "09:00", "jam_selesai": "15:00" },
+        { "hari": "Kamis", "jam_mulai": "12:00", "jam_selesai": "18:00" }
+      ],
+      "spesialis": "Gigi"
+    },
+    {
+      "id": 3,
+      "email": "haikalalfaro@example.com",
+      "password": "password789",
+      "nama": "Haikal Alfaro",
+      "no_telp": "083456789012",
+      "foto_profil": "https://picsum.photos/400/200?random=13",
+      "waktu_shift": [
+        { "hari": "Senin", "jam_mulai": "13:00", "jam_selesai": "19:00" },
+        { "hari": "Jumat", "jam_mulai": "08:00", "jam_selesai": "14:00" }
+      ],
+      "spesialis": "Umum"
+    },
+    {
+      "id": 4,
+      "email": "najwaaulia@example.com",
+      "password": "password101",
+      "nama": "Najwa Aulia",
+      "no_telp": "084567890123",
+      "foto_profil": "https://picsum.photos/400/200?random=14",
+      "waktu_shift": [
+        { "hari": "Rabu", "jam_mulai": "08:00", "jam_selesai": "14:00" },
+        { "hari": "Sabtu", "jam_mulai": "10:00", "jam_selesai": "16:00" }
+      ],
+      "spesialis": "Gigi"
+    },
+    {
+      "id": 5,
+      "email": "naufalajhar@example.com",
+      "password": "password202",
+      "nama": "Naufal Ajhar",
+      "no_telp": "085678901234",
+      "foto_profil": "https://picsum.photos/400/200?random=15",
+      "waktu_shift": [
+        { "hari": "Kamis", "jam_mulai": "13:00", "jam_selesai": "19:00" },
+        { "hari": "Minggu", "jam_mulai": "08:00", "jam_selesai": "14:00" }
+      ],
+      "spesialis": "Umum"
+    },
+    {
+      "id": 6,
+      "email": "susanti_harjo@example.com",
+      "password": "password303",
+      "nama": "Susanti Harjo",
+      "no_telp": "086789012345",
+      "foto_profil": "https://picsum.photos/400/200?random=16",
+      "waktu_shift": [
+        { "hari": "Senin", "jam_mulai": "08:00", "jam_selesai": "14:00" },
+        { "hari": "Kamis", "jam_mulai": "09:00", "jam_selesai": "15:00" }
+      ],
+      "spesialis": "Gigi"
+    },
+    {
+      "id": 7,
+      "email": "firman_saputra@example.com",
+      "password": "password404",
+      "nama": " Firman Saputra",
+      "no_telp": "087890123456",
+      "foto_profil": "https://picsum.photos/400/200?random=17",
+      "waktu_shift": [
+        { "hari": "Selasa", "jam_mulai": "10:00", "jam_selesai": "16:00" },
+        { "hari": "Jumat", "jam_mulai": "12:00", "jam_selesai": "18:00" }
+      ],
+      "spesialis": "Umum"
+    },
+    {
+      "id": 8,
+      "email": "irma_suryani@example.com",
+      "password": "password505",
+      "nama": "Irma Suryani",
+      "no_telp": "088901234567",
+      "foto_profil": "https://picsum.photos/400/200?random=18",
+      "waktu_shift": [
+        { "hari": "Senin", "jam_mulai": "08:00", "jam_selesai": "12:00" },
+        { "hari": "Rabu", "jam_mulai": "13:00", "jam_selesai": "17:00" }
+      ],
+      "spesialis": "Gigi"
+    },
+    {
+      "id": 9,
+      "email": "dimas_kusuma@example.com",
+      "password": "password606",
+      "nama": "Dimas Kusuma",
+      "no_telp": "089012345678",
+      "foto_profil": "https://picsum.photos/400/200?random=19",
+      "waktu_shift": [
+        { "hari": "Rabu", "jam_mulai": "14:00", "jam_selesai": "20:00" },
+        { "hari": "Sabtu", "jam_mulai": "08:00", "jam_selesai": "14:00" }
+      ],
+      "spesialis": "Umum"
+    },
+    {
+      "id": 10,
+      "email": "dewi_andini@example.com",
+      "password": "password707",
+      "nama": "Dewi Andini",
+      "no_telp": "081123456789",
+      "foto_profil": "https://picsum.photos/400/200?random=20",
+      "waktu_shift": [
+        { "hari": "Kamis", "jam_mulai": "10:00", "jam_selesai": "16:00" },
+        { "hari": "Minggu", "jam_mulai": "12:00", "jam_selesai": "18:00" }
+      ],
+      "spesialis": "Gigi"
+    }
+  ]
+  

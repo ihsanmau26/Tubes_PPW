@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Peran Penting Teknologi di Bidang Kesehatan",
+      "description": "Teknologi membawa perubahan besar dalam dunia kesehatan, dari diagnosis hingga pengobatan.",
+      "image": "https://picsum.photos/400/200?random=1",
+      "detail": "Inovasi teknologi, seperti telemedicine dan aplikasi kesehatan, membantu meningkatkan akses layanan kesehatan dan membuat diagnosis serta perawatan menjadi lebih efisien. Teknologi memungkinkan dokter untuk memantau pasien dari jarak jauh dan memberikan intervensi yang cepat.",
+      "category": "Kesehatan"
+    },
+    {
+      "title": "Pentingnya Pola Makan Seimbang untuk Kesehatan Tubuh",
+      "description": "Pola makan seimbang memberikan tubuh nutrisi yang dibutuhkan untuk berfungsi optimal.",
+      "image": "https://picsum.photos/400/200?random=2",
+      "detail": "Mengonsumsi makanan kaya nutrisi, seperti sayuran, buah-buahan, protein, dan karbohidrat kompleks, membantu menjaga kesehatan tubuh. Pola makan yang baik juga dapat mengurangi risiko penyakit kronis seperti diabetes dan penyakit jantung.",
+      "category": "Tips Diet"
+    },
+    {
+      "title": "Manfaat Olahraga Rutin bagi Kesehatan Mental",
+      "description": "Olahraga rutin tidak hanya bermanfaat bagi tubuh, tetapi juga kesehatan mental.",
+      "image": "https://picsum.photos/400/200?random=3",
+      "detail": "Olahraga dapat meningkatkan produksi hormon endorfin yang membantu mengurangi stres dan meningkatkan suasana hati. Selain itu, aktivitas fisik rutin juga membantu menjaga kualitas tidur dan meningkatkan fokus.",
+      "category": "Olahraga"
+    },
+    {
+      "title": "Tips Diet Sehat untuk Menurunkan Berat Badan",
+      "description": "Diet sehat penting untuk menjaga berat badan ideal tanpa efek samping.",
+      "image": "https://picsum.photos/400/200?random=4",
+      "detail": "Diet sehat dengan memperhatikan porsi dan kandungan gizi bisa menjadi cara efektif untuk menurunkan berat badan. Konsumsi makanan berserat tinggi dan rendah gula, serta menghindari makanan olahan, sangat dianjurkan untuk mendapatkan hasil yang optimal.",
+      "category": "Tips Diet"
+    },
+    {
+      "title": "Cara Mengatasi Kecemasan dengan Aktivitas Fisik",
+      "description": "Latihan fisik dapat membantu mengurangi gejala kecemasan.",
+      "image": "https://picsum.photos/400/200?random=5",
+      "detail": "Aktivitas fisik seperti yoga, berjalan kaki, dan berlari ringan efektif mengurangi kecemasan. Olahraga dapat menenangkan pikiran dengan meningkatkan produksi hormon endorfin dan menurunkan kadar hormon stres.",
+      "category": "Olahraga"
+    },
+    {
+      "title": "Kombinasi Pola Makan dan Olahraga untuk Kebugaran Optimal",
+      "description": "Pola makan seimbang dan olahraga rutin adalah kunci kebugaran yang optimal.",
+      "image": "https://picsum.photos/400/200?random=6",
+      "detail": "Menggabungkan asupan gizi yang seimbang dengan rutinitas olahraga, seperti kardio dan latihan kekuatan, dapat membantu meningkatkan kesehatan jantung, stamina, dan daya tahan tubuh.",
+      "category": "Kesehatan"
+    },
+    {
+      "title": "Tips Diet Sehat bagi Pemula",
+      "description": "Panduan diet sehat sederhana bagi yang baru memulai.",
+      "image": "https://picsum.photos/400/200?random=7",
+      "detail": "Mulailah dengan mengurangi makanan manis, memperbanyak sayuran dan buah-buahan, serta minum air yang cukup. Diet sehat bisa dimulai dengan langkah kecil yang konsisten untuk mendapatkan hasil jangka panjang.",
+      "category": "Tips Diet"
+    },
+    {
+      "title": "Pentingnya Tidur Berkualitas untuk Kebugaran Fisik",
+      "description": "Tidur cukup penting untuk pemulihan tubuh pasca olahraga.",
+      "image": "https://picsum.photos/400/200?random=8",
+      "detail": "Tidur yang berkualitas membantu pemulihan otot dan menjaga sistem kekebalan tubuh setelah olahraga. Tidur yang cukup juga memastikan tubuh siap untuk aktivitas fisik berikutnya.",
+      "category": "Kesehatan"
+    },
+    {
+      "title": "Olahraga Ringan yang Bisa Dilakukan di Rumah",
+      "description": "Beberapa olahraga ringan yang dapat dilakukan di rumah tanpa peralatan khusus.",
+      "image": "https://picsum.photos/400/200?random=9",
+      "detail": "Olahraga seperti plank, jumping jack, dan squats dapat dilakukan di rumah dan tetap efektif untuk kebugaran. Aktivitas ini meningkatkan daya tahan tubuh, kekuatan, dan fleksibilitas.",
+      "category": "Olahraga"
+    },
+    {
+      "title": "Panduan Diet Mediterania untuk Kesehatan Jantung",
+      "description": "Diet Mediterania terkenal baik untuk kesehatan jantung.",
+      "image": "https://picsum.photos/400/200?random=10",
+      "detail": "Diet ini mengutamakan konsumsi sayuran, buah, kacang-kacangan, dan minyak zaitun yang kaya antioksidan. Asupan makanan ini telah terbukti menurunkan risiko penyakit kardiovaskular.",
+      "category": "Tips Diet"
+    }
+  ]
+  

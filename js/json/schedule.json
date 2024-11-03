@@ -1,0 +1,63 @@
+[
+    {
+      "nama_pasien": "Agus Susanto",
+      "nama_dokter": "Fachruddin Ghalibi",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T08:00:00"
+    },
+    {
+      "nama_pasien": "Nurul Rahma",
+      "nama_dokter": "Fadlan Kamal",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T09:00:00"
+    },
+    {
+      "nama_pasien": "Budi Hartono",
+      "nama_dokter": "Haikal Alfaro",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T13:00:00"
+    },
+    {
+      "nama_pasien": "Siti Maemunah",
+      "nama_dokter": "Najwa Aulia",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T10:00:00"
+    },
+    {
+      "nama_pasien": "Dedi Saputra",
+      "nama_dokter": "Naufal Ajhar",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T08:00:00"
+    },
+    {
+      "nama_pasien": "Maria Lestari",
+      "nama_dokter": "Susanti Harjo",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T12:00:00"
+    },
+    {
+      "nama_pasien": "Herman Jaya",
+      "nama_dokter": "Firman Saputra",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T14:00:00"
+    },
+    {
+      "nama_pasien": "Lia Pratiwi",
+      "nama_dokter": "Irma Suryani",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T08:00:00"
+    },
+    {
+      "nama_pasien": "Arif Rahman",
+      "nama_dokter": "Dimas Kusuma",
+      "jenis_pengobatan": "Umum",
+      "jam_pengobatan": "2024-10-30T14:00:00"
+    },
+    {
+      "nama_pasien": "Dewi Anisa",
+      "nama_dokter": "Dewi Andini",
+      "jenis_pengobatan": "Gigi",
+      "jam_pengobatan": "2024-10-30T10:00:00"
+    }
+  ]
+  

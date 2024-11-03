@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "email": "agus_susanto@example.com",
+      "password": "password123",
+      "nama": "Agus Susanto",
+      "no_telp": "081234567890",
+      "foto_profil": "https://picsum.photos/400/200?random=1"
+    },
+    {
+      "id": 2,
+      "email": "nurul_rahma@example.com",
+      "password": "password456",
+      "nama": "Nurul Rahma",
+      "no_telp": "082345678901",
+      "foto_profil": "https://picsum.photos/400/200?random=2"
+    },
+    {
+      "id": 3,
+      "email": "budi_hartono@example.com",
+      "password": "password789",
+      "nama": "Budi Hartono",
+      "no_telp": "083456789012",
+      "foto_profil": "https://picsum.photos/400/200?random=3"
+    },
+    {
+      "id": 4,
+      "email": "siti_maemunah@example.com",
+      "password": "password101",
+      "nama": "Siti Maemunah",
+      "no_telp": "084567890123",
+      "foto_profil": "https://picsum.photos/400/200?random=4"
+    },
+    {
+      "id": 5,
+      "email": "dedi_saputra@example.com",
+      "password": "password202",
+      "nama": "Dedi Saputra",
+      "no_telp": "085678901234",
+      "foto_profil": "https://picsum.photos/400/200?random=5"
+    },
+    {
+      "id": 6,
+      "email": "maria_lestari@example.com",
+      "password": "password303",
+      "nama": "Maria Lestari",
+      "no_telp": "086789012345",
+      "foto_profil": "https://picsum.photos/400/200?random=6"
+    },
+    {
+      "id": 7,
+      "email": "herman_jaya@example.com",
+      "password": "password404",
+      "nama": "Herman Jaya",
+      "no_telp": "087890123456",
+      "foto_profil": "https://picsum.photos/400/200?random=7"
+    },
+    {
+      "id": 8,
+      "email": "lia_pratiwi@example.com",
+      "password": "password505",
+      "nama": "Lia Pratiwi",
+      "no_telp": "088901234567",
+      "foto_profil": "https://picsum.photos/400/200?random=8"
+    },
+    {
+      "id": 9,
+      "email": "arif_rahman@example.com",
+      "password": "password606",
+      "nama": "Arif Rahman",
+      "no_telp": "089012345678",
+      "foto_profil": "https://picsum.photos/400/200?random=9"
+    },
+    {
+      "id": 10,
+      "email": "dewi_anisa@example.com",
+      "password": "password707",
+      "nama": "Dewi Anisa",
+      "no_telp": "081123456789",
+      "foto_profil": "https://picsum.photos/400/200?random=10"
+    }
+  ]
+  
